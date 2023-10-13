@@ -4,5 +4,3 @@
 
 # The file named open vhd.bat can be placed anywhere!
 
- 
-笔记
